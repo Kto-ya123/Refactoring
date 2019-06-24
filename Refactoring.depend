@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1561112087 source:/home/ITRANSITION.CORP/a.luzgin/example/Refactoring/main.cpp
+	<iostream>
+	<string>
+	<vector>
+
